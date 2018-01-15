@@ -1,24 +1,14 @@
 -
   exchange: kraken
   asset_pair: XXBTZEUR
-  refresh: 3
+  refresh: 10
 
 -
-  exchange: gdax
-  asset_pair: XXBTZEUR
-  refresh: 3
+  exchange: bittrex
+  asset_pair: XNLGZBTC
+  refresh: 10
 
 -
-  exchange: kraken
-  asset_pair: XXETZEUR
-  refresh: 3
-
--
-  exchange: gdax
-  asset_pair: XXETZEUR
-  refresh: 3
-
--
-  exchange: kraken
-  asset_pair: XXRPZEUR
-  refresh: 3
+  exchange: nocks
+  asset_pair: XNLGZEUR
+  refresh: 10
