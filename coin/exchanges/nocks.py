@@ -20,7 +20,7 @@ class Nocks(Exchange):
       {
         'isocode': 'XNLGZEUR',
         'pair': 'NLG-EUR',
-        'name': 'EUR to NLG',
+        'name': 'NLG to EUR',
         'currency': CURRENCY['eur']
       }
     ]
