@@ -132,7 +132,7 @@ class Exchange(object):
     elif number >= 10:
         i = -1
 
-    return ('{0:.' + str(i + 2) + 'f}').format(number)
+    return ('{0:.' + str(i + 4) + 'f}').format(number)
 
   ##
   # Makes request on a different thread, and optionally passes response to a
