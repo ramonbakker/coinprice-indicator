@@ -18,6 +18,12 @@ class Bittrex(Exchange):
     'ticker': 'https://bittrex.com/api/v1.1/public/getmarketsummary',
     'asset_pairs': [
       {
+        'isocode': 'XNLGZBTC',
+        'pair': 'BTC-NLG',
+        'name': 'NLG to BTC',
+        'currency': CURRENCY['btc']
+      },
+      {
         'isocode': 'XXBTZUSD',
         'pair': 'USDT-BTC',
         'name': 'BTC to USD',
