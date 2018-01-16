@@ -4,6 +4,11 @@
   refresh: 10
 
 -
+  exchange: kraken
+  asset_pair: XXETZEUR
+  refresh: 10
+
+-
   exchange: bittrex
   asset_pair: XNLGZBTC
   refresh: 10
